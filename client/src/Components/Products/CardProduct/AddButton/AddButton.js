@@ -4,7 +4,7 @@ import "./AddButton.css"
 
 const AddButton = () => (
     <div className="addButton">
-        <h3>Add to cart</h3>
+        <button>Add To Cart</button>
     </div>
 );
 export default AddButton;

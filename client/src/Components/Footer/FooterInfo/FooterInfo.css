@@ -1,0 +1,13 @@
+.footerInfo{
+    display: flex;
+    flex-flow: column;
+    justify-content: start;
+    align-items: flex-start;
+
+    margin-top: 3rem;
+    color: #FFFF;
+}
+.footerInfo a{
+    color: #0787e8;
+    font-weight: bolder;
+}
