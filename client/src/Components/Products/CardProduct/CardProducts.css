@@ -1,0 +1,19 @@
+.cardProducts{
+    display: flex;
+    flex-flow: row;
+    max-width: 25rem;
+    height: auto;
+    box-shadow: 5px 10px 18px #c1bfbf;
+    margin: 0 2rem 2rem 2rem;
+    border-radius: 2rem;
+ 
+ 
+    
+}
+.cardProducts img{
+    max-width: 50%;
+    height: auto;
+    border-start-start-radius: 2rem;
+    border-end-start-radius: 2rem;
+    
+}

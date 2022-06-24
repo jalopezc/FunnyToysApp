@@ -1,0 +1,10 @@
+.options{
+    display: flex;
+    flex-flow: row nowrap;
+   
+}
+.options h4{
+    color:#d44242;
+    margin-top: 2.3rem;
+    margin-right: 5rem;
+}

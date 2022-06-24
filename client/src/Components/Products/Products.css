@@ -1,0 +1,9 @@
+.products{
+    max-width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    margin-bottom: 4rem;
+    padding: 0;
+}

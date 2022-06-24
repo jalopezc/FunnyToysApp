@@ -1,0 +1,8 @@
+.cardInfo{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    max-width: 20rem;
+    margin-left: 2rem;
+    padding-bottom: 1rem;
+}

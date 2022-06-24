@@ -1,0 +1,6 @@
+.titleLogo{
+    display: flex;
+    flex-flow: row ;
+    margin-right: 12rem;
+    margin-left: 2rem;
+}
